@@ -6,7 +6,7 @@
    - [Sobre 📖](#sobre-)
    - [TODO 📃](#todo-)
    - [Como Usar 🤔](#como-usar-)
-   
+
    </p>
 
 ---
@@ -40,9 +40,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    
 <p>
 
-- Prisma []
-- Adicionar regras de negócio []
-- Estudo sobre relacionamento []
+- Prisma [ ]
+- Adicionar regras de negócio [ ]
+- Estudo sobre relacionamento [ ]
 
 </p>
                     
