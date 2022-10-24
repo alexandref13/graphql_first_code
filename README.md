@@ -6,7 +6,7 @@
    - [Sobre 📖](#sobre-)
    - [TODO 📃](#todo-)
    - [Como Usar 🤔](#como-usar-)
-
+   
    </p>
 
 ---
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <h2 align="center">Sobre 📖</h2>
    
   O projeto foi desenvolvido junto ao [video](https://www.youtube.com/watch?v=1dz48pReq_c) postado no Canal da Rocketseat<br>
-  O projeto trata-se de um primeiro contato com Api feita com a tecnologia GraphQL, onde eu irei adicionar novas features como: Acesso a um banco de dados, usando Prisma.
+  O projeto trata-se de um primeiro contato com Api feita com a tecnologia GraphQL.
                     
 ---
 
@@ -39,9 +39,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <h2 align="center">TODO 📃</h2>
    
 <p>
+
 - Prisma []
 - Adicionar regras de negócio []
 - Estudo sobre relacionamento []
+
 </p>
                     
 ---
